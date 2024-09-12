@@ -58,7 +58,7 @@ Play on Quest (thumbstick (both to run) and trigger)
 
 # Known Issues
 
-- When dropping out of VR the camera is on the ground in Quest the adress bar 'Enter VR' button does not fix it, 
-  the normal VR button on screen does work correctly.
+- On Quest the adress bar 'Enter VR' button does not work correctly, the VR button on screen does work correctly.
+- Works on Chrome and Firefox, but inexplicably, in Firefox the hand model is rotated 90 degrees :-(
 - Quest 3 maintains 90 fps, but Quest 2 fluctuates between 45 fps (looking from the edges to the center) and 70 fps. 
   This can easily be solved by reducing the settings in constants.js.
